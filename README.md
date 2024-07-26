@@ -9,7 +9,7 @@ Using semgrep, it scans a file (or multiple, it can scan the whole directory) an
 
 As a test bench, CVWA is included.
 
-# In case CVWA is not there, run this
+In case CVWA is not there, run this
 git clone https://github.com/convisolabs/CVWA
 
 Usage:
